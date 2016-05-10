@@ -228,7 +228,7 @@ function create_config( )
     "autoleave_Super",
     "badword",
     "echo_fa",
-    "calculator",
+    "rules",
     "antiRejoin",
     "pmLoad",
     "inSudo",
