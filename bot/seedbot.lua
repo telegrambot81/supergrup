@@ -224,7 +224,7 @@ function create_config( )
     "دریافت نقشه قاره ها",
     "Time",
     "translate",
-    "invSudo",
+    "weather",
     "cpu",
     "badword",
     "aparat",
