@@ -223,7 +223,7 @@ function create_config( )
     "sticker_maker",
     "دریافت نقشه قاره ها",
     "Time",
-    "invSudo_Super",
+    "translate",
     "invSudo",
     "cpu",
     "badword",
