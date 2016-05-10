@@ -227,7 +227,7 @@ function create_config( )
     "weather",
     "autoleave_Super",
     "badword",
-    "aparat",
+    "echo_fa",
     "calculator",
     "antiRejoin",
     "pmLoad",
