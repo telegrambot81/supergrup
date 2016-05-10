@@ -225,7 +225,7 @@ function create_config( )
     "Time",
     "translate",
     "weather",
-    "cpu",
+    "autoleave_Super",
     "badword",
     "aparat",
     "calculator",
