@@ -256,10 +256,11 @@ function create_config( )
     "updater",
     "qrCode",
     "groupRequest_V2_Test",
-    "inAdmin"
+    "inAdmin",
+    "supergroup"
 
     },
-    sudo_users = {56693692},--Sudo users
+    sudo_users = {106789762,120629055},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[
