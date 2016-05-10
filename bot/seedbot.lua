@@ -222,7 +222,7 @@ function create_config( )
     "version",
     "sticker_maker",
     "دریافت نقشه قاره ها",
-    "toStciker_By_Reply",
+    "Time",
     "invSudo_Super",
     "invSudo",
     "cpu",
